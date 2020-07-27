@@ -1,4 +1,3 @@
-def 
+def
   puts "Hello World"
 end
-
